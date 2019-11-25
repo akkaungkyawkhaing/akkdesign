@@ -1,0 +1,44 @@
+{
+  "name": "akkdesign",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://akkaungkyawkhaing.github.io/akkdesign",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "description": "akkdesign",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkaungkyawkhaing/akkdesign.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akkaungkyawkhaing/akkdesign/issues"
+  }
+}
