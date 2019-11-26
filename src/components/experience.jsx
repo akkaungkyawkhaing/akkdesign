@@ -15,6 +15,17 @@ export default class Experience extends Component {
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="timeline-centered">
+                                <article className="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                                        <div className="timeline-entry-inner">
+                                            <div className="timeline-icon color-1">
+                                                <i className="icon-pen2"></i>
+                                            </div>
+                                            <div className="timeline-label">
+                                                <h2>Mobile Developer<span>&nbsp;2018-2019</span></h2>
+                                                <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                                            </div>
+                                        </div>
+                                    </article>
                                     <article className="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-1">

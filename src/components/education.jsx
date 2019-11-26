@@ -51,7 +51,7 @@ export default class Education extends Component {
                                                 </div>
                                             </div>
                                         </div> */}
-                                        {/* <div className="panel panel-default">
+                                        <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingThree">
                                                 <h4 className="panel-title">
                                                     <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Diploma in Information Technology</a>
@@ -62,7 +62,7 @@ export default class Education extends Component {
                                                     <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                                 </div>
                                             </div>
-                                        </div> */}
+                                        </div>
                                         <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingFour">
                                                 <h4 className="panel-title">
