@@ -11,10 +11,10 @@ export default class Sidebar extends Component {
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Aung Kyaw Khaing</a></h1>
               <span className="position">
-                <a href="#position">All-Star Dev </a>
+                <a href="#position">Dev </a>
                  in myanmar
               </span>
-              {/* <span className="email"><i className="icon-mail"></i> aungkyawkhaing22july@gmail.com</span> */}
+              {/* <span className="email"><i className="icon-mail"></i> @gmail.com</span> */}
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -43,9 +43,9 @@ export default class Sidebar extends Component {
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
-              <p><small>
+              {/* <p><small>
                 Something coming soon !!
-              </small></p>
+              </small></p> */}
             </div>
           </aside>
         </div>

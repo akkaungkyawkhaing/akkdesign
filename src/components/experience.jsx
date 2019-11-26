@@ -26,7 +26,7 @@ export default class Experience extends Component {
                                             </div>
                                         </div>
                                     </article>
-                                    <article className="timeline-entry animate-box fadeInRight animated" data-animate-effect="fadeInRight">
+                                    {/* <article className="timeline-entry animate-box fadeInRight animated" data-animate-effect="fadeInRight">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-2">
                                                 <i className="icon-pen2"></i>
@@ -69,7 +69,7 @@ export default class Experience extends Component {
                                                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
                                             </div>
                                         </div>
-                                    </article>
+                                    </article> */}
                                     <article className="timeline-entry begin animate-box fadeInUp animated" data-animate-effect="fadeInBottom">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-none">

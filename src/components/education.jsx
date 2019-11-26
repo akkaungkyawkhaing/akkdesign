@@ -16,7 +16,7 @@ export default class Education extends Component {
                             <div className="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                 <div className="fancy-collapse-panel">
                                     <div className="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                                        <div className="panel panel-default">
+                                        {/* <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingOne">
                                                 <h4 className="panel-title">
                                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" className="collapsed">Master Degree Graphic Design</a>
@@ -34,8 +34,8 @@ export default class Education extends Component {
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div className="panel panel-default">
+                                        </div> */}
+                                        {/* <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingTwo">
                                                 <h4 className="panel-title">
                                                     <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor Degree of Computer Science</a>
@@ -50,8 +50,8 @@ export default class Education extends Component {
                                                     </ul>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div className="panel panel-default">
+                                        </div> */}
+                                        {/* <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingThree">
                                                 <h4 className="panel-title">
                                                     <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Diploma in Information Technology</a>
@@ -62,7 +62,7 @@ export default class Education extends Component {
                                                     <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                         <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingFour">
                                                 <h4 className="panel-title">
@@ -75,7 +75,7 @@ export default class Education extends Component {
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="panel panel-default">
+                                        {/* <div className="panel panel-default">
                                             <div className="panel-heading" role="tab" id="headingFive">
                                                 <h4 className="panel-title">
                                                     <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">High School Secondary Education</a>
@@ -86,7 +86,7 @@ export default class Education extends Component {
                                                     <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
