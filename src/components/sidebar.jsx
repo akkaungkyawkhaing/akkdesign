@@ -16,8 +16,8 @@ export default class Sidebar extends Component {
               </span>
               {/* <span className="email"><i className="icon-mail"></i> @gmail.com</span> */}
             </div>
-            <div>
-            <nav id="colorlib-main-menu" role="navigation" className="navbar">
+            
+            <div id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
@@ -29,8 +29,8 @@ export default class Sidebar extends Component {
                   <li><a href="#contact" data-nav-section="contact">Contact</a></li>
                 </ul>
               </div>
-            </nav>
             </div>
+            
             {/* <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="#position" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
