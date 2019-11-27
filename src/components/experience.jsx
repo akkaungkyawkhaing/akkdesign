@@ -37,6 +37,7 @@ export default class Experience extends Component {
                                             </div>
                                         </div>
                                     </article>
+                                    
                                     {/* <article className="timeline-entry animate-box fadeInRight animated" data-animate-effect="fadeInRight">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-2">

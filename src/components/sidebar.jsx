@@ -25,6 +25,7 @@ export default class Sidebar extends Component {
                   <li><a href="#skills" data-nav-section="skills">Skills</a></li>
                   <li><a href="#education" data-nav-section="education">Education</a></li>
                   <li><a href="#experience" data-nav-section="experience">Experience</a></li>
+                  <li><a href="#contact" data-nav-section="contact">Contact</a></li>
                 </ul>
               </div>
             </nav>
@@ -39,10 +40,19 @@ export default class Sidebar extends Component {
               </ul>
             </nav> */}
             <div className="colorlib-footer">
-              <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
+              <p>
+                <small>
+                  ©
+                  Copyright 
+                  © 
+                  <script type="text/javascript">document.write(new Date().getFullYear());</script>
+                  2019
+                  All rights reserved |
+                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i>
+                  <br></br>
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
-              </small></p>
+              </small>
+              </p>
               {/* <p><small>
                 Something coming soon !!
               </small></p> */}

@@ -3,10 +3,11 @@ import './App.css';
 import Sidebar from './components/sidebar';
 import Introduction from './components/introduction';
 import About from './components/about';
+import Services from './components/services';
 import Skills from './components/skills';
 import Education from './components/education';
 import Experience from './components/experience';
-import Services from './components/services';
+import Contact from './components/contact';
 
 class App extends Component {
   render() {
@@ -26,7 +27,8 @@ class App extends Component {
             <Skills></Skills>
             <Education></Education>
             <Experience></Experience>
-
+            <Contact></Contact>
+            
           </div>
 
         </div>
