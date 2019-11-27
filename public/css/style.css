@@ -1440,3 +1440,37 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+
+  a.hello {
+    position: absolute;
+    right: 3em;
+    top: 2em;
+    border: 2px solid white;
+    border-radius: 2em;
+    color: white;
+    text-decoration: none;
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 3em;
+    font-weight: 400;
+}
+.hello.mobile {
+  display:none;
+}
+@media (max-width:768px) {
+  
+  a.hello.desktop {
+    display: none;
+}
+a.hello.mobile {
+  position: relative;
+  display: flex;
+  right: 0;
+  top: 0;
+  width: 30%;
+  margin: 0 auto;
+}
+}

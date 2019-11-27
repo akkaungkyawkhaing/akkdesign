@@ -28,7 +28,7 @@ export default class Experience extends Component {
                                     </article>
                                     <article className="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
-                                            <div className="timeline-icon color-1">
+                                            <div className="timeline-icon color-2">
                                                 <i className="icon-pen2"></i>
                                             </div>
                                             <div className="timeline-label">
