@@ -43,13 +43,9 @@ export default class Sidebar extends Component {
             </nav> */}
             <div className="colorlib-footer">
               <p>
-                <small>
-                  ©
-                  Copyright
-                  ©
-                  <script type="text/javascript">document.write(new Date().getFullYear());</script>
-                  2019
-                  All rights reserved |
+              <small>
+                Copyright {(new Date().getFullYear())}&nbsp;AK //
+                 All rights reserved // <br></br>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i>
                   <br></br>
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration
