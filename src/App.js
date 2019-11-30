@@ -8,7 +8,6 @@ import Skills from './components/skills';
 import Education from './components/education';
 import Experience from './components/experience';
 import Contact from './components/contact';
-import Notfound from './components/notfound';
 
 class App extends Component {
   render() {
@@ -30,8 +29,6 @@ class App extends Component {
             <Experience></Experience>
             <Contact></Contact>
           </div>
-
-          <Notfound></Notfound>
 
         </div>
         
