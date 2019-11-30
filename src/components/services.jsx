@@ -6,7 +6,7 @@ export default class Services extends Component {
         titleh2: 'Here are some of my expertise',
 
         Web: 'Web Development',
-        Webp: 'I have experience building websites and Nodejs, Express, React, Csharp, Dart, HTML, CSS',
+        Webp: 'I have experience building websites and Node.js, Express.js, React, Csharp, Dart, HTML, CSS',
 
         Mobile: 'Mobile Development',
         Mobilep: 'Responsive for developing software applications using Xamarin & Flutter. Hightly experience with Xamarin',

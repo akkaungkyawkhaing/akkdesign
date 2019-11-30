@@ -21,7 +21,7 @@ export default class Experience extends Component {
                                                 <i className="icon-pen2"></i>
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Mobile Developer<span>&nbsp;2018-2019</span></h2>
+                                                <h2>Mobile application Developer<span>&nbsp;2018-2019</span></h2>
                                                 <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
                                             </div>
                                         </div>
