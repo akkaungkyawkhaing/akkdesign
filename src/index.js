@@ -3,8 +3,22 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import NotFound from './components/NotFound';
+import { Router, Route, browserHistory } from 'react-router';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const Root = () =>
+  
+<Router history={browserHistory}>
+<Route path="/" component={App}>
+
+  {/* Your other routes here */}
+
+  <Route path="" component={NotFound} />
+</Route>
+</Router>
+ 
+
+ReactDOM.render(<Root />, document.getElementById('root'));
 
 // index.html inside to App or Class
 
