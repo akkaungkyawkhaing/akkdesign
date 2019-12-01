@@ -12,7 +12,10 @@ export default class Services extends Component {
         Mobilep: 'Responsive for developing software applications using Xamarin & Flutter. Hightly experience with Xamarin',
 
         Dev: 'Dev Ops',
-        Devp: 'Deep experience with AWS, Docker, Kubernetes, and Openstack, helping organizations instill Devops for the modern age. working with tools like Jenkins, Docker, K8s'
+        Devp: 'Deep experience with AWS, Kubernetes and Openstack. Helping organizations instill Devops for the modern age.'
+        // Devp: 'I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s'
+        //AWS Certified DevOps Engineer
+        //Dedicated Linux and Open source professional seeking a Senior DevOps Engineer role. Brings industry certifications to your organization with an always learning attitude. Practical experience with AWS, Docker, and OpenStack.
     }
     render() {
         return (
