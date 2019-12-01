@@ -14,13 +14,24 @@ export default class Skills extends Component {
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                                <p>
+                                    Experienced Full Stack Developer with 1 years in the industry and high-level proficiency in the following programs:
+                                    Javascript, SQL, Python and C#. I am very familiar and experienced with Web Application Architecture and
+                                    have worked with a good number of successful development teams.
+                                </p>
+                                <p>
+                                    I have a solid background in creating complex mobile applications for iPhone and Android. I can work independently and
+                                    respect a deadline. I feel comfortable working with a good team of developers.
+                                    Obtain a job in a reputable mobile application company that can identify my knowledge. I am a key guy that has the
+                                    ability to work alone, or lead a team when the need arises.
+                                </p>
                                 <p>When you start out coding, it can feel completely overwhelming. Should you focus on front end or back end? What programming languages should you use? Where to begin? Keeping in mind that the only way to eat an elephant is a bite at a time, pick something and start.</p>
                             </div>
                             <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                 <div className="progress-wrap">
                                     <h3>React</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-1" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: '60%'}}>
+                                        <div className="progress-bar color-1" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: '60%' }}>
                                             <span>60%</span>
                                         </div>
                                     </div>
@@ -30,7 +41,7 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>Express</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-2" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style={{width: '55%'}}>
+                                        <div className="progress-bar color-2" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style={{ width: '55%' }}>
                                             <span>55%</span>
                                         </div>
                                     </div>
@@ -40,7 +51,7 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>HTML5</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-3" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: '80%'}}>
+                                        <div className="progress-bar color-3" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}>
                                             <span>80%</span>
                                         </div>
                                     </div>
@@ -50,7 +61,7 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>C#</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-4" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{width: '50%'}}>
+                                        <div className="progress-bar color-4" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}>
                                             <span>50%</span>
                                         </div>
                                     </div>
@@ -60,7 +71,7 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>Nodejs</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-5" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style={{width: '45%'}}>
+                                        <div className="progress-bar color-5" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style={{ width: '45%' }}>
                                             <span>45%</span>
                                         </div>
                                     </div>
@@ -70,7 +81,7 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>Dart</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-6" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{width: '40%'}}>
+                                        <div className="progress-bar color-6" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{ width: '40%' }}>
                                             <span>40%</span>
                                         </div>
                                     </div>
