@@ -22,12 +22,11 @@ export default class Experience extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Mobile application Developer<span>&nbsp;2018 - Present</span></h2>
-                                                
-                                                <p>- Applications for Ipad, Android tablets, and mobiles.</p>
+                                                {/* <p>- Applications for Ipad, Android tablets, and mobiles.</p> */}
                                                 <p>- Responsible for developing and maintaining iOS and Android application.</p>
                                                 <p>- Optimized applications for new iOS and Android operating systems.</p>
-                                                <p>- Repaired existing iOS and Android applications using Android Studio and Visual Studio.</p>
-                                                <p>- Fixed bugs which were reported by Product managers and customers.</p>
+                                                <p>- Repaired existing iOS and Android applications using Xcode, Android Studio and Visual Studio.</p>
+                                                {/* <p>- Fixed bugs which were reported by Product managers and customers.</p> */}
                                                 <p>- Successfully deployed Android application on Google Play Store.</p>
                                                 <p>- Working on bug fixing and improving application performance, also tested on various Devices for UI</p>
                                                 <p>- Created a clean RESTful api and cohesive architectural layers for interfacing with a legacy system.</p>
