@@ -130,7 +130,7 @@ figure {
       padding-right: .3em; }
   #colorlib-aside #colorlib-main-menu {
     display: block;
-    height: 50%;
+    height: 100%;
     width: 100%; }
     #colorlib-aside #colorlib-main-menu .collapse {
       display: block !important; }
@@ -212,15 +212,15 @@ figure {
     #colorlib-aside .colorlib-footer ul {
       padding: 0;
       margin: 0; }
-      #colorlib-aside .colorlib-footer ul li {
+      #colorlib-aside .colorlib-footer ul p {
         padding: 0;
         margin: 0;
         display: inline;
         list-style: none; }
-        #colorlib-aside .colorlib-footer ul li a {
+        #colorlib-aside .colorlib-footer ul p a {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
-          #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
+          #colorlib-aside .colorlib-footer ul p a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
             color: #2c98f0; }

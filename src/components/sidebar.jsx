@@ -19,7 +19,7 @@ export default class Sidebar extends Component {
             
             <div id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
-                <ul>
+                  <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   <li><a href="#services" data-nav-section="services">Services</a></li>
@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
                   <li><a href="#education" data-nav-section="education">Education</a></li>
                   <li><a href="#experience" data-nav-section="experience">Experience</a></li>
                   <li><a href="#contact" data-nav-section="contact">Contact</a></li>
-                </ul>
+                  </ul>
               </div>
             </div>
             
@@ -42,7 +42,7 @@ export default class Sidebar extends Component {
               </ul>
             </nav> */}
 
-            <div className="colorlib-footer">
+            {/* <div className="colorlib-footer">
               <p>
               <small className="displaynone">
                 Copyright {(new Date().getFullYear())}&nbsp;AK //
@@ -52,7 +52,7 @@ export default class Sidebar extends Component {
                   Thank <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration
               </small>
               </p>
-            </div>
+            </div> */}
 
           </aside>
         </div>
