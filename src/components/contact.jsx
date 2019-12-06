@@ -94,7 +94,7 @@ export default class Contact extends Component {
                     </div>
                     
                 </section>
-
+{/* 
                 <div className="footer">
                     <p>
                         <small>
@@ -103,7 +103,7 @@ export default class Contact extends Component {
                             Thank <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration
                         </small>
                     </p>
-                </div>
+                </div> */}
             
             </div >
         )
