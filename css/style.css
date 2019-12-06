@@ -1476,3 +1476,14 @@ a.hello.mobile {
   margin: 0 auto;
 }
 }
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+}
