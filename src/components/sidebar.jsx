@@ -46,7 +46,7 @@ export default class Sidebar extends Component {
 
             <div className="colorlib-footer">
               <p>
-              <small className="displaynone">
+              <small>
                 Copyright {(new Date().getFullYear())}&nbsp;AK //
                  All rights reserved // <br></br>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i>
