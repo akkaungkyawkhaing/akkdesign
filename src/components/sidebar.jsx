@@ -41,7 +41,8 @@ export default class Sidebar extends Component {
                 <li><a href="#position" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav> */}
-            <div className="colorlib-footer">
+
+            {/* <div className="colorlib-footer">
               <p>
               <small>
                 Copyright {(new Date().getFullYear())}&nbsp;AK //
@@ -51,7 +52,8 @@ export default class Sidebar extends Component {
                   Thank <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration
               </small>
               </p>
-            </div>
+            </div> */}
+
           </aside>
         </div>
       </div>
