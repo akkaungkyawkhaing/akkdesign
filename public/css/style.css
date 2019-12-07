@@ -1481,6 +1481,7 @@ a.hello.mobile {
 .footer {
   left: 0;
   bottom: 0;
+  background-color: #FFF;
   width: 100%;
   text-align: center;
   font-size: 15px;
