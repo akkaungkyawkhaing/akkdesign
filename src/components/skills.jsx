@@ -31,8 +31,8 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>React</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-1" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: '60%' }}>
-                                            <span>60%</span>
+                                        <div className="progress-bar color-1" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}>
+                                            <span>50%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -41,8 +41,8 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>Express</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-2" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style={{ width: '55%' }}>
-                                            <span>55%</span>
+                                        <div className="progress-bar color-2" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{ width: '40%' }}>
+                                            <span>40%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -51,8 +51,8 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>HTML5</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-3" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '80%' }}>
-                                            <span>80%</span>
+                                        <div className="progress-bar color-3" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '70%' }}>
+                                            <span>70%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -61,8 +61,8 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>C#</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-4" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}>
-                                            <span>50%</span>
+                                        <div className="progress-bar color-4" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{ width: '40%' }}>
+                                            <span>40%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -71,8 +71,8 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>Nodejs</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-5" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style={{ width: '45%' }}>
-                                            <span>45%</span>
+                                        <div className="progress-bar color-5" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style={{ width: '30%' }}>
+                                            <span>30%</span>
                                         </div>
                                     </div>
                                 </div>
