@@ -5,7 +5,7 @@ import Introduction from './components/introduction';
 import About from './components/about';
 import Services from './components/services';
 import Skills from './components/skills';
-import Education from './components/education';
+//import Education from './components/education';
 import Experience from './components/experience';
 import Contact from './components/contact';
 
@@ -25,7 +25,7 @@ class App extends Component {
             <About></About>
             <Services></Services>
             <Skills></Skills>
-            <Education></Education>
+            {/* <Education></Education> */}
             <Experience></Experience>
             <Contact></Contact>
           </div>

@@ -9,7 +9,7 @@ export default class Services extends Component {
         Webp: 'I have experience building websites and Node.js, Express.js, React, Csharp, Python, Dart, HTML, CSS',
 
         Mobile: 'Mobile Development',
-        Mobilep: 'Responsive for developing software applications using Xamarin & Flutter. Hightly experience with Flutter',
+        Mobilep: 'Responsive for developing software applications using Xamarin & Flutter. Hightly experience with Xamarin',
 
         Dev: 'Dev Ops',
         Devp: 'Deep experience with AWS, Kubernetes and Openstack. Helping organizations instill Devops for the modern age.'
