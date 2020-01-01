@@ -27,7 +27,7 @@ export default class Contact extends Component {
                                         <i className="icon-phone"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p><a href="tel://">+959 97 9595 663</a></p>
+                                        <p><a href="tel://">-</a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -35,7 +35,7 @@ export default class Contact extends Component {
                                         <i className="icon-map"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p>Yangon, Myanmar</p>
+                                        <p>-</p>
                                     </div>
                                 </div>
                             </div>
