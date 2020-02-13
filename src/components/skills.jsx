@@ -16,14 +16,15 @@ export default class Skills extends Component {
                             <div className="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                 <p>
                                     Experienced Full Stack Developer with 1 years in the industry and high-level proficiency in the following programs:
-                                    Javascript, SQL, Python and C#. I am very familiar and experienced with Web Application Architecture and
+                                    Javascript, SQL, Python. I am very familiar and experienced with Web Application Architecture and
                                     have worked with a good number of successful development teams.
                                 </p>
                                 <p>
                                     I have a solid background in creating complex mobile applications for iPhone and Android. I can work independently and
                                     respect a deadline. I feel comfortable working with a good team of developers.
-                                    Obtain a job in a reputable mobile application company that can identify my knowledge. I am a key guy that has the
-                                    ability to work alone, or lead a team when the need arises.
+                                    Obtain a job in a reputable mobile application company that can identify my knowledge. 
+                                    Have hands-on experience in using Wi-Fi, Bluetooth, NFC, and iBeacons technologies to build an IoT mobile application.
+                                    {/* I am a key guy that has the ability to work alone, or lead a team when the need arises. */}
                                 </p>
                                 <p>When you start out coding, it can feel completely overwhelming. Should you focus on front end or back end? What programming languages should you use? Where to begin? Keeping in mind that the only way to eat an elephant is a bite at a time, pick something and start.</p>
                             </div>
@@ -61,8 +62,8 @@ export default class Skills extends Component {
                                 <div className="progress-wrap">
                                     <h3>C#</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-4" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style={{ width: '35%' }}>
-                                            <span>35%</span>
+                                        <div className="progress-bar color-4" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style={{ width: '25%' }}>
+                                            <span>25%</span>
                                         </div>
                                     </div>
                                 </div>
