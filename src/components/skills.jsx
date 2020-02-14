@@ -26,7 +26,7 @@ export default class Skills extends Component {
                                     Have hands-on experience in using Wi-Fi, Bluetooth, NFC, and iBeacons technologies to build an IoT mobile application.
                                     {/* I am a key guy that has the ability to work alone, or lead a team when the need arises. */}
                                 </p>
-                                <p>When you start out coding, it can feel completely overwhelming. Should you focus on front end or back end? What programming languages should you use? Where to begin? Keeping in mind that the only way to eat an elephant is a bite at a time, pick something and start.</p>
+                                {/* <p>When you start out coding, it can feel completely overwhelming. Should you focus on front end or back end? What programming languages should you use? Where to begin? Keeping in mind that the only way to eat an elephant is a bite at a time, pick something and start.</p> */}
                             </div>
                             <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                 <div className="progress-wrap">
