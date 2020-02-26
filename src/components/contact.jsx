@@ -27,7 +27,7 @@ export default class Contact extends Component {
                                         <i className="icon-phone"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p><a href="tel://"></a>-</p>
+                                        <p><a href="tel://+1216-367-5566"></a>+1 (216) 367 5566</p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
