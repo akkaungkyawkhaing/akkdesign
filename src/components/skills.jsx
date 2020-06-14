@@ -53,7 +53,7 @@ export default class Skills extends Component {
                                     <h3>C#</h3>
                                     <div className="progress">
                                         <div className="progress-bar color-3" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style={{ width: '10%' }}>
-                                            <span>10%</span>
+                                            <span>15%</span>
                                         </div>
                                     </div>
                                 </div>

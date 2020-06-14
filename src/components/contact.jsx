@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { FormErrors } from '../FormErrors';
 export default class Contact extends Component {
 
     constructor(props) {
@@ -147,6 +146,7 @@ export default class Contact extends Component {
             case 'name':
                 nameValid = value.length > 3;
             fieldValidationErrors.name = nameValid ? '': ' is too short';
+                break;
             case 'email':
                 emailValid = value.match(/^([\w.%+-]+)@([\w-]+\.)+([\w]{2,})$/i);
                 fieldValidationErrors.email = emailValid ? '' : ' is invalid';
@@ -154,6 +154,7 @@ export default class Contact extends Component {
             case 'subject':
                 subjectValid = value.length > 6;
                 fieldValidationErrors.subject = subjectValid ? '': ' is too short';
+                break;
             case 'message':
                 messageValid = value.length > 6;
                 fieldValidationErrors.message = messageValid ? '': ' is too short';
