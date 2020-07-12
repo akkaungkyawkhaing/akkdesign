@@ -57,7 +57,7 @@ export default class Contact extends Component {
                                         <i className="icon-mail"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p><a href="mailto:info@0x04pentester.com"><span className="__cf_email__" data-cfemail="dfb6b1b9b09fbbb0b2beb6b1f1bcb0b2">info@aungkyawkhaing.design</span></a></p>
+                                        <p><a href="mailto:info@0x04pentester.com"><span className="__cf_email__" data-cfemail="dfb6b1b9b09fbbb0b2beb6b1f1bcb0b2">info@0x04pentester.com</span></a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
