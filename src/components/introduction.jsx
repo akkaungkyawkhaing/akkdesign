@@ -10,7 +10,7 @@ export default class Introduction extends Component {
               <li style={{backgroundImage: 'url(images/iotback.jpg)'}}>
                 <div className="overlay" />
            
-                  {/* <a class="hello desktop" href="mailto:shaunajiang@gmail.com">Say Hello</a> */}
+                  {/* <a class="hello desktop" href="mailto:aaa@gmail.com">Say Hello</a> */}
                 
                 <div className="container-fluid">
                   <div className="row">
