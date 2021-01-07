@@ -66,7 +66,7 @@ export default class Contact extends Component {
                                     </div>
                                     <div className="colorlib-text">
                                         {/* <p><a href="tel://+1210-501-1002">+1 (210) 501 1002</a></p> */}
-                                        <p><a href="tel://">-</a></p>
+                                        <p>-</p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
