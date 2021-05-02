@@ -116,7 +116,7 @@ export default class Contact extends Component {
                 <div className="footer">
                     <p>
                         <small>
-                            Copyright {(new Date().getFullYear())}&nbsp;AK, All rights reserved
+                            © {(new Date().getFullYear())}&nbsp;0x04pentester.com, All rights reserved.
                             {/* Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br> */}
                         </small>
                     </p>
