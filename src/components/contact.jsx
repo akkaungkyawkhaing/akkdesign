@@ -84,8 +84,7 @@ export default class Contact extends Component {
                                 <div className="row">
                                     <div className="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
                                         <form action="" id="contact-form">
-                                            <div className={`form-group
-                 ${this.errorClass(this.state.formErrors.email)}`}>
+                                            <div className={`form-group ${this.errorClass(this.state.formErrors.email)}`}>
                                                 <input type="text" className="form-control required" placeholder="Name" value={this.state.name} onChange={this.onNameChange.bind(this)}/>
                                             </div>
                                             <div className="form-group">
@@ -98,8 +97,9 @@ export default class Contact extends Component {
                                                 <textarea name="text" id="message" cols="30" rows="7" className="form-control" placeholder="Message" value={this.state.message} onChange={this.onMessageChange.bind(this)}></textarea>
                                             </div>
                                             <div className="form-group">
-                                                <input type="button" className="btn btn-primary btn-send-message" value="Send Message" onClick={this.handleSubmit}/>
+                                                <input type="button" className="btn btn-primary btn-send-message" value="Send Message" />   
                                             </div>
+                                            {/* onClick={this.handleSubmit} */}
                                         </form>
                                     </div>
                                 </div>
@@ -116,8 +116,8 @@ export default class Contact extends Component {
                 <div className="footer">
                     <p>
                         <small>
-                            Copyright {(new Date().getFullYear())}&nbsp;AK // All rights reserved //
-                            Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
+                            Copyright {(new Date().getFullYear())}&nbsp;AK, All rights reserved
+                            {/* Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br> */}
                         </small>
                     </p>
                 </div>
