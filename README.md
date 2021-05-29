@@ -1,4 +1,4 @@
-# akkdesign
+# My Portfolio
 
 - 👋 Hi, I'm Aung Kyaw Khaing
 - 👀 I'm interested in Machine Learning & Data Science.
