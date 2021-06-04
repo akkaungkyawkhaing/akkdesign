@@ -21,7 +21,7 @@ export default class Experience extends Component {
                                                 <i className="icon-pen2"></i>
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Mobile application Developer<span>&nbsp;2018 - Present</span></h2>
+                                                <h2>Mobile application Developer<span>&nbsp;2018 - 2021</span></h2>
                                                 {/* <p>- Applications for Ipad, Android tablets, and mobiles.</p> */}
                                                 <p>- Responsible for developing and maintaining iOS and Android application.</p>
                                                 <p>- Optimized applications for new iOS and Android operating systems.</p>
