@@ -9,6 +9,12 @@ import Skills from './components/skills';
 import Experience from './components/experience';
 import Contact from './components/contact';
 import Projects from './components/projects';
+import {
+  BrowserRouter as Router, 
+  Switch,
+  Route
+} from 'react-router-dom';
+// import Layout from './layout/Layout'
 
 class App extends Component {
   render() {
@@ -32,7 +38,7 @@ class App extends Component {
           </div>
 
         </div>
-        
+
       </div>
 
     );
