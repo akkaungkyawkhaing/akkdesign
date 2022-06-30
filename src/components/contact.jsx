@@ -117,7 +117,7 @@ export default class Contact extends Component {
                     <p>
                         <small>
                             © {(new Date().getFullYear())}&nbsp;0x04pentester.com, All rights reserved.
-                            Made with <i className="icon-heart" aria-hidden="true" /> and React.<br></br>
+                            {/* Made with <i className="icon-heart" aria-hidden="true" /> and React.<br></br> */}
                             {/* Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br> */}
                         </small>
                     </p>
